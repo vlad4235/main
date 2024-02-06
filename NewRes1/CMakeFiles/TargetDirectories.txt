@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/GitHub/NewRes1/CMakeFiles/Laba1.dir
+C:/Users/Admin/Documents/GitHub/NewRes1/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Documents/GitHub/NewRes1/CMakeFiles/ZERO_CHECK.dir
